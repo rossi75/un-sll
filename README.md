@@ -13,3 +13,8 @@ Install it via:
 
 ```bash
 sudo apt install tcpreplay
+```
+## 📄 Usage
+```bash
+./un-sll.sh input.pcap
+```
